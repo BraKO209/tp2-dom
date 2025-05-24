@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Cambio hecho desde A
+=======
+Cambio hecho desde B
+>>>>>>> conflicto-b
